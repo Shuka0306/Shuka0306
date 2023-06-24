@@ -11,8 +11,6 @@
     <br />
   </samp>
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shuka0306&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shuka0306's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuka0306&layout=compact&theme=buefy&hide_border=true" /> </a> | 
-| ------------- | ------------- |
 
 </p>
 ![](http://antzuhl.cn:4000/get/@Shuka0306.readme)
