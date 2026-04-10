@@ -76,16 +76,6 @@
 [![Profile](https://img.shields.io/badge/Profile-Visit-111827?style=for-the-badge&logo=github)](https://github.com/Shuka0306)
 
 </div>
-
-统计图之前加载不出来，是因为 `github-readme-stats.vercel.app` 当前返回的是 `503 DEPLOYMENT_PAUSED`，不是 README 写法问题。  
-为了避免继续出现破图，这里改成了更稳定的 badge 展示。
-
-## 一句话
-
-我现在还在路上，但我喜欢那些必须自己动手做过，才会真正理解的东西：系统、网络、容器，以及偏工程底层的实现细节。
-
-最近也会往主页里加一点自己喜欢的二次元元素，毕竟写代码和保持热爱并不冲突。
-
 <div align="center">
   <sub>感谢访问我的 GitHub 主页。</sub>
 </div>
