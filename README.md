@@ -1,80 +1,65 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=760&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Shuka+%F0%9F%91%8B;%E4%B8%80%E5%90%8D%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0%E7%B3%BB%E7%BB%9F%E6%96%B9%E5%90%91%E7%9A%84%E5%9C%A8%E6%A0%A1%E7%94%9F;Go+%7C+Linux+%7C+eBPF+%7C+Containers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&center=true&vCenter=true&width=760&lines=Shuka+%E2%80%94+%E5%86%B7%E9%9D%99%E5%9C%B0%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98;Systems+%7C+Linux+%7C+Go+%7C+Containers" alt="Typing SVG" />
+
+<img src="./assets/yukino-2.gif" width="210" alt="Snowfall" />
 
 </div>
 
 <div align="center">
 
-[![地区](https://img.shields.io/badge/%E5%9C%B0%E5%8C%BA-China-2563eb?style=flat-square&logo=googleearth&logoColor=white)](https://github.com/Shuka0306)
-![身份](https://img.shields.io/badge/%E8%BA%AB%E4%BB%BD-%E5%9C%A8%E6%A0%A1%E5%AD%A6%E7%94%9F-0f766e?style=flat-square)
-![方向](https://img.shields.io/badge/%E6%96%B9%E5%90%91-%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B-f59e0b?style=flat-square)
-![学习中](https://img.shields.io/badge/%E5%AD%A6%E4%B9%A0%E4%B8%AD-LLM%20%26%20Cloud%20Native-7c3aed?style=flat-square)
+<img src="https://img.shields.io/badge/Focus-Systems%20%26%20Infrastructure-1d4ed8?style=flat-square" />
+<img src="https://img.shields.io/badge/Style-Clear%20Boundary%20First-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/Approach-Measured%20%26%20Verifiable-64748b?style=flat-square" />
 
 </div>
 
-<div align="center">
-  <img src="./assets/yukino-2.gif" width="220" alt="雪之下雪乃" />
-</div>
+<br />
 
-<div align="center">
-
-来自中国，正在学习计算机系统方向。  
-目前主要在折腾 **Go**，也持续学习 **Linux 网络**、**eBPF/XDP**、**容器**、**存储系统** 和 **LLM 工程** 相关内容。
-
-</div>
-
----
+> 我更在意的是边界是否清晰、结果是否可复现，以及系统是否能被解释。
 
 ## 关于我
 
-- 我是一名在中国读书的学生，正在一步一步补系统方向的基础和工程能力。
-- 目前最主要的语言是 **Go**，也会根据需要接触 **C**、**TypeScript**、**Docker**、**C++ / Python**。
-- 比较感兴趣的方向是偏底层和工程实践的内容：
-  **Linux 内核 / 网络**、**容器运行时**、**Kubernetes 数据面**、**eBPF/XDP**、**性能相关工具**。
-- 我更喜欢通过做项目、读源码、自己动手验证来学习，而不是只停留在笔记层面。
+- 关注 **Linux、容器、存储、网络、系统性能** 这些更接近底层的问题。
+- 主要使用 **Go**，也会写 **C / Python / Shell**，做工具、脚本和实验验证。
+- 喜欢把复杂问题拆成可验证的小块，然后用数据而不是感觉做判断。
+- 主页风格偏冷静、克制、少一点噪音，多一点结果。
 
-## 现在在做什么
+## 最近在做
 
-- 用 **Go** 写一些系统相关的小项目，也读一些真实工程代码
-- 学习 **容器运行时**、**sandbox**、**进程/网络/文件系统隔离**
-- 持续折腾 **eBPF / XDP / Linux networking**
-- 看 **Ceph / 存储** 相关内容
-- 记录并实践 **LLM** 学习过程
+- 研究 **gVisor / sandbox** 场景下的异步 I/O 路径
+- 整理 **论文实验** 和 **benchmark harness**
+- 读 **容器运行时**、**文件系统**、**存储系统** 的实现
+- 做能直接落到工程里的性能验证
 
-## 代表项目
-
-| Project | Description |
-| --- | --- |
-| [gocker](https://github.com/Shuka0306/gocker) | 基于 Go 实现的容器运行时项目。 |
-| [go-ceph](https://github.com/Shuka0306/go-ceph) | 基于 Go 的 Ceph API 相关实验。 |
-| [study-LLM](https://github.com/Shuka0306/study-LLM) | 从 0 开始学习 LLM 的笔记和实验。 |
-| [project3082486-349128](https://github.com/Shuka0306/project3082486-349128) | Go 运行时 / 系统代码相关的阅读与实践。 |
-
-## 技术栈
+## 我常用的技术
 
 <div align="center">
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-1f2937?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
+![C](https://img.shields.io/badge/C-1f2937?style=for-the-badge&logo=c&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![eBPF](https://img.shields.io/badge/eBPF-111827?style=for-the-badge&logo=linux&logoColor=white)
-![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
 
 </div>
 
-## GitHub 概览
+## 代表项目
+
+| Project | What it is |
+| --- | --- |
+| [project3082486-349128](https://github.com/Shuka0306/project3082486-349128) | gVisor / S-IOU / SAGA 相关实验、论文和脚本。 |
+| [gocker](https://github.com/Shuka0306/gocker) | 用 Go 做的容器运行时练习。 |
+| [go-ceph](https://github.com/Shuka0306/go-ceph) | Ceph / 存储相关实验。 |
+| [study-LLM](https://github.com/Shuka0306/study-LLM) | LLM 学习笔记与实践。 |
+
+## 现在的状态
+
+- 继续推进系统方向的研究和工程实践
+- 保持输出可复现、可解释、可复查
+- 更偏向做“能落地”的东西，而不是堆概念
 
 <div align="center">
-
-[![Followers](https://img.shields.io/github/followers/Shuka0306?style=for-the-badge&logo=github&label=Followers)](https://github.com/Shuka0306?tab=followers)
-[![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=$.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FShuka0306)](https://github.com/Shuka0306?tab=repositories)
-[![Profile](https://img.shields.io/badge/Profile-Visit-111827?style=for-the-badge&logo=github)](https://github.com/Shuka0306)
-
-</div>
-<div align="center">
-  <sub>感谢访问我的 GitHub 主页。</sub>
+  <sub>冷静一点，事情会更清楚。</sub>
 </div>
