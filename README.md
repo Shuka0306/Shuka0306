@@ -1,36 +1,42 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&center=true&vCenter=true&width=760&lines=Shuka+%E2%80%94+%E5%86%B7%E9%9D%99%E5%9C%B0%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98;Systems+%7C+Linux+%7C+Go+%7C+Containers" alt="Typing SVG" />
-
-<img src="./assets/yukino-2.gif" width="210" alt="Snowfall" />
-
+  <img src="./assets/cute-banner.png" width="100%" alt="Shuka cute banner" />
 </div>
 
 <div align="center">
+  <h1>Shuka</h1>
+  <p>
+    ふわっと、でもちゃんと。<br/>
+    喜欢把复杂的事情拆开，一点一点做好。
+  </p>
+</div>
 
-<img src="https://img.shields.io/badge/Focus-Systems%20%26%20Infrastructure-1d4ed8?style=flat-square" />
-<img src="https://img.shields.io/badge/Style-Clear%20Boundary%20First-0f172a?style=flat-square" />
-<img src="https://img.shields.io/badge/Approach-Measured%20%26%20Verifiable-64748b?style=flat-square" />
+<div align="center">
+  <img src="./assets/yukino-2.gif" width="180" alt="anime gif" />
+</div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Infrastructure-f6cfe0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Style-Cute%20%26%20Calm-c8d8ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Approach-Readable%20%26%20Reproducible-e7d9ff?style=flat-square" />
 </div>
 
 <br />
 
-> 我更在意的是边界是否清晰、结果是否可复现，以及系统是否能被解释。
+> 我会认真做事，也会认真喜欢可爱的东西。
 
-## 关于我
+## こんにちは
 
-- 关注 **Linux、容器、存储、网络、系统性能** 这些更接近底层的问题。
-- 主要使用 **Go**，也会写 **C / Python / Shell**，做工具、脚本和实验验证。
-- 喜欢把复杂问题拆成可验证的小块，然后用数据而不是感觉做判断。
-- 主页风格偏冷静、克制、少一点噪音，多一点结果。
+- 关注 **Linux、容器、存储、网络、系统性能** 这些偏底层的方向。
+- 主要使用 **Go**，也会写 **C / Python / Shell**。
+- 喜欢把问题拆小，把结论说清，把实验做完整。
+- 主页想保持一点点可爱，但不想太吵。
 
 ## 最近在做
 
-- 研究 **gVisor / sandbox** 场景下的异步 I/O 路径
+- 研究 **gVisor / sandbox** 场景下的异步 I/O
 - 整理 **论文实验** 和 **benchmark harness**
 - 读 **容器运行时**、**文件系统**、**存储系统** 的实现
-- 做能直接落到工程里的性能验证
+- 把实验结果整理成能复现、能解释的形式
 
 ## 我常用的技术
 
@@ -58,8 +64,8 @@
 
 - 继续推进系统方向的研究和工程实践
 - 保持输出可复现、可解释、可复查
-- 更偏向做“能落地”的东西，而不是堆概念
+- 想把主页做得更像“安静但有一点可爱”的感觉
 
 <div align="center">
-  <sub>冷静一点，事情会更清楚。</sub>
+  <sub>ゆっくりでも、ちゃんと進める。</sub>
 </div>
