@@ -1,17 +1,21 @@
 <div align="center">
-  <img src="./assets/cute-banner.png" width="100%" alt="Shuka cute banner" />
-</div>
-
-<div align="center">
-  <h1>Shuka ✿</h1>
-  <p>
-    ふわっと、でもちゃんと。<br/>
-    喜欢把事情慢慢做好，也喜欢一点点可爱的东西。
-  </p>
-</div>
-
-<div align="center">
-  <img src="./assets/yukino-2.gif" width="180" alt="anime gif" />
+  <table>
+    <tr>
+      <td width="300" align="center" valign="middle">
+        <img src="./assets/yukino-source.png" width="260" alt="Yukinoshita Yukino illustration" />
+      </td>
+      <td align="left" valign="middle">
+        <h1>Shuka ✿</h1>
+        <p>
+          ふわっと、でもちゃんと。<br/>
+          喜欢把事情慢慢做好，也喜欢一点点可爱的东西。
+        </p>
+        <p>
+          <sub>冷静一点，认真一点，页面也安静一点。</sub>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
