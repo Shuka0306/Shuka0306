@@ -1,18 +1,18 @@
 <div align="center">
   <table>
     <tr>
-      <td width="300" align="center" valign="middle">
+      <td width="280" align="center" valign="middle">
         <img src="./assets/yukino-source.png" width="260" alt="Yukinoshita Yukino illustration" />
       </td>
       <td align="left" valign="middle">
-        <h1>Shuka ✿</h1>
+        <h1>雪之下雪乃 / Shuka</h1>
         <p>
-          ふわっと、でもちゃんと。<br/>
-          我并不擅长把自己说得很热闹。<br/>
-          比起喧嚣，我更习惯安静地把事情做好。
+          我叫雪之下雪乃。<br/>
+          来自 <b>广西</b>，就读于 <b>桂林电子科技大学</b>。<br/>
+          不太擅长把自己说得很热闹，不过，做事还算认真。
         </p>
         <p>
-          <sub>冷静一点，认真一点，边界清楚一点。</sub>
+          <sub>如果一定要给自己一个说明，那就写得清楚一点吧。</sub>
         </p>
       </td>
     </tr>
@@ -21,14 +21,14 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Infrastructure-f6cfe0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Style-Cute%20%26%20Calm-c8d8ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Style-Yukino%20%E2%80%94%20Cold%20%26%20Calm-c8d8ff?style=flat-square" />
   <img src="https://img.shields.io/badge/Approach-Readable%20%26%20Reproducible-e7d9ff?style=flat-square" />
 </div>
 
 <br />
 
 > 我会认真做事，也会认真喜欢可爱的东西。  
-> 如果一定要概括自己，大概就是“安静、克制、但并不无趣”。
+> 只是，我不太喜欢把这种事说得太大声。
 
 ## 关于我
 
@@ -37,6 +37,18 @@
 - 我更相信可复现的结果，而不是漂亮但空泛的描述。
 - 不太喜欢把话说满，通常会先把边界、成本和收益讲清楚。
 - 页面看起来安静一些，不是因为我没想法，而是我觉得这样更合适。
+
+## 雪之下的片段
+
+<div align="center">
+  <img src="./assets/gifs/yukino-1.gif" width="220" alt="Yukino gif 1" />
+  <img src="./assets/gifs/yukino-2.gif" width="220" alt="Yukino gif 2" />
+  <img src="./assets/gifs/yukino-3.gif" width="220" alt="Yukino gif 3" />
+</div>
+
+<div align="center">
+  <sub>安静、克制、但并不无趣。</sub>
+</div>
 
 ## 最近在做
 
