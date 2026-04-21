@@ -47,7 +47,6 @@
 | Project | Description |
 | --- | --- |
 | [gocker](https://github.com/Shuka0306/gocker) | 基于 Go 实现的容器运行时项目。 |
-| [xdp-redirect](https://github.com/Shuka0306/xdp-redirect) | XDP / eBPF / Kubernetes 数据面相关代码与文档实践。 |
 | [go-ceph](https://github.com/Shuka0306/go-ceph) | 基于 Go 的 Ceph API 相关实验。 |
 | [study-LLM](https://github.com/Shuka0306/study-LLM) | 从 0 开始学习 LLM 的笔记和实验。 |
 | [project3082486-349128](https://github.com/Shuka0306/project3082486-349128) | Go 运行时 / 系统代码相关的阅读与实践。 |
