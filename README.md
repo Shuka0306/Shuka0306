@@ -54,11 +54,11 @@
 ## Reol
 
 <div align="center">
-  <img src="https://i.makeagif.com/media/12-02-2016/2na_E5.gif" width="260" alt="Reol animated clip" />
+  <img src="https://i.makeagif.com/media/4-19-2026/qI99YS.gif" width="260" alt="Reol MV clip" />
 </div>
 
 <div align="center">
-  <sub>我很喜欢 Reol，尤其是她的节奏、舞台张力和现场气场。</sub>
+  <sub>我很喜欢 Reol，更喜欢这种干净一点、张力也更足的片段。</sub>
 </div>
 
 <div align="center">
